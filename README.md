@@ -9,11 +9,11 @@ I am a Data Science student who passionate about analytics, business intelligenc
 * Blend data science with strategy & user-centric problem solving
 
 ## 🔧 Tech Stack
-**Programming Languages:** Python (PCEP certified), R, SQL, PySpark
-**Data Visualization:** Tableau (Desktop Specialist), Power BI, dashboard development
-**Data Processing:** Microsoft Excel, Google Sheets
-**Databases:** MySQL Workbench
-**Tools:** RStudio, basic market research & business intelligence workflows
+* **Programming Languages:** Python (PCEP certified), R, SQL, PySpark
+* **Data Visualization:** Tableau (Desktop Specialist), Power BI, dashboard development
+* **Data Processing:** Microsoft Excel, Google Sheets
+* **Databases:** MySQL Workbench
+* **Tools:** RStudio, basic market research & business intelligence workflows
 
 ## Projects
 
