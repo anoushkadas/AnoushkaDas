@@ -1,4 +1,4 @@
-# This project demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project includes four major components: Excel UI design, Excel VBA scripting, R looping, and a complete 4-fold cross-validation modeling pipeline.
+# Software Applications for Mathematics Project Instructions
 
 ## 📁 1. Excel User Interface With PivotTables
 
