@@ -1,9 +1,9 @@
-This project demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project includes 
+#This project demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project includes 
 four major components: Excel UI design, Excel VBA scripting, R looping, and a complete 4-fold cross-validation modeling pipeline.
 
-📁 1. Excel User Interface With PivotTables
+##📁 1. Excel User Interface With PivotTables
 
-Objective:
+###Objective:
 * Create an interactive Excel user interface that allows a user to select a state from a dropdown menu and automatically view summary statistics for that state.
 
 Requirements
