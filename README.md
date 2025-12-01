@@ -34,6 +34,7 @@ Applied design thinking to reduce shelter dog return rates.
 ### Applied Mulivariate Statistics Project (2024)
 
 ### Software Applications for Mathamatics (2025)
+This final exam integrates concepts from Excel, VBA, and R to demonstrate practical data analysis and modeling skills. The assignment includes building an interactive Excel interface using Pivot Tables, implementing a two-dimensional loop in VBA, and writing an R loop for a defined summation task. The major component involves performing a full 4-fold cross-validation in R, which includes data preparation, model training, prediction generation, and evaluation using A/E ratios. The exam concludes with constructing a final linear model on the complete dataset. All code, data splits, and the Excel workbook are included in this file. 
 
 ## Experience
 
