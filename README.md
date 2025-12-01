@@ -34,6 +34,7 @@ Applied design thinking to reduce shelter dog return rates.
 ### Applied Mulivariate Statistics Project (2024)
 
 ### Software Applications for Mathamatics (2025)
+(AnoushkaDas/math 354)
 
 ## Experience
 
