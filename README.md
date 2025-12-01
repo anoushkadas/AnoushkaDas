@@ -34,7 +34,7 @@ Applied design thinking to reduce shelter dog return rates.
 ### Applied Mulivariate Statistics Project (2024)
 
 ### Software Applications for Mathamatics (2025)
-(AnoushkaDas/math 354)
+This [project](https://github.com/anoushkadas/AnoushkaDas/tree/d42f8a70d7bdce9faeee52e926839a2fae4cf4fa/math%20354) demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project is divided into four major components: Excel UI design, Excel VBA scripting, R looping, and a full 4-fold cross-validation modeling pipeline.
 
 ## Experience
 
