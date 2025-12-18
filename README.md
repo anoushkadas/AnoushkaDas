@@ -59,7 +59,7 @@ This [project](https://github.com/anoushkadas/AnoushkaDas/tree/d42f8a70d7bdce9fa
 * Programming for Data Science
 * Intro to Machine Learning
 * Database Managment Systems Principles
-* Intro to Cybercecurity
+* Intro to Cybersecurity
 * Intro to Deep Learning
 * Big Data Analytics
 
