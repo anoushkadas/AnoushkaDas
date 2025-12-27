@@ -37,7 +37,7 @@ The columns in the dataset can be grouped into four main categories:
 * **100**: Fully Remote
 
 
-* **`company_location` & `employee_residence**`: Tracks where the company is based versus where the talent lives, highlighting the "borderless" nature of the AI industry.
+* **`company_location` & `employee_residence`**: Tracks where the company is based versus where the talent lives, highlighting the "borderless" nature of the AI industry.
 * **`company_size`**: Typically categorized as Small (S), Medium (M), or Large (L).
 
 #### **Requirements & Qualifications**
