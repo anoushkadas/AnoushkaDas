@@ -27,7 +27,7 @@ Applied design thinking to reduce shelter dog return rates.
 This [project](https://github.com/anoushkadas/AnoushkaDas/tree/d42f8a70d7bdce9faeee52e926839a2fae4cf4fa/math%20354) demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project is divided into four major components: Excel UI design, Excel VBA scripting, R looping, and a full 4-fold cross-validation modeling pipeline.
 
 ### Global AI Job Market Data Analysis and Visualization
-This project demonstrates technical proficiency in the Python data science stack: Pandas, Matplotlib, and Seaborn, by transforming a large, complex dataset into clear, actionable business intelligence. It specifically showcases ability to conduct deep exploratory analysis and communicate high-level trends such as the correlation between professional seniority and global compensation through professional-grade visualizations.
+This [project](https://github.com/anoushkadas/AnoushkaDas/tree/f312d9d45a6b165ce3b06243ebd98d25a421ed9b/Global%20AI%20Job%20Market%20Data%20Analysis) demonstrates technical proficiency in the Python data science stack: Pandas, Matplotlib, and Seaborn, by transforming a large, complex dataset into clear, actionable business intelligence. It specifically showcases ability to conduct deep exploratory analysis and communicate high-level trends such as the correlation between professional seniority and global compensation through professional-grade visualizations.
 
 ## Experience
 
