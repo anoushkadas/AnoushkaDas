@@ -74,6 +74,9 @@ This [project](https://github.com/anoushkadas/AnoushkaDas/tree/f312d9d45a6b165ce
 * Intro to Cybersecurity
 * Intro to Deep Learning
 * Big Data Analytics
+* Machine Learning with Robotics
+* Data Warehousing in the Age of Big Data
+* Data Science Capstone
 
 * Calculus and Analytic Geometry 1
 * Statistics 1
