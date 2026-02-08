@@ -31,6 +31,9 @@ Applied design thinking to reduce shelter dog return rates.
 
 * Focus: user research, prototyping, problem framing
 
+### Introduction to Programming (2023)
+This project is a Python-based billing system that automates payroll by calculating regular and overtime pay based on a four-week work period. It features modular code with strict validation for employee names, minimum hourly rates, and weekly hour limits to ensure data accuracy. The system stores records in a flat-file database and generates ad-hoc reports summarizing total billable hours and average costs across all employees.
+
 ### Software Applications for Mathamatics (2025)
 This [project](https://github.com/anoushkadas/AnoushkaDas/tree/d42f8a70d7bdce9faeee52e926839a2fae4cf4fa/math%20354) demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project is divided into four major components: Excel UI design, Excel VBA scripting, R looping, and a full 4-fold cross-validation modeling pipeline.
 
