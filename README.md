@@ -26,7 +26,7 @@ Applied design thinking to reduce shelter dog return rates.
 ### Software Applications for Mathamatics (2025)
 This [project](https://github.com/anoushkadas/AnoushkaDas/tree/d42f8a70d7bdce9faeee52e926839a2fae4cf4fa/math%20354) demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project is divided into four major components: Excel UI design, Excel VBA scripting, R looping, and a full 4-fold cross-validation modeling pipeline.
 
-### Reimplementation of CNN’s for Insect Image Recognition (2025)
+### Introduction to Deep Learning (2025)
 This [project]() is a VGG16-based CNN reimplementation designed to classify five insect species using Kaggle stock imagery. By utilizing transfer learning, Adam optimization, and data cleaning, this project demonstrates high-accuracy identification despite varied real-world backgrounds and noisy data.
 
 ### Global AI Job Market Data Analysis and Visualization
