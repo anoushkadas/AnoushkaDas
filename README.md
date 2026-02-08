@@ -15,6 +15,14 @@ I am a Data Science student who passionate about analytics, business intelligenc
 * **Databases:** MySQL Workbench
 * **Tools:** RStudio, basic market research & business intelligence workflows
 
+### Certifications
+* Microsoft Certified: [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaDas-6785/2F50E5B9CA2342E4?sharingId=EC48D38B8B0EC644)
+* Microsoft Certified: [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaDas-6785/A4E22979700AA26B?sharingId=EC48D38B8B0EC644)
+* [PCEP-30-02] PCEP™: [Certified Entry-Level Python Programmer](https://www.credly.com/badges/730c1bcc-1df0-4f3d-bdb1-7a6e6cf13c6e/public_url)
+* Tableau: [Desktop Specialist](https://www.credly.com/badges/c5f20dc2-bede-45f9-92ee-472ee94372cd/public_url)
+
+
+
 ## Projects
 
 ### Bryant IDEA — Design Thinking (2023)
@@ -51,13 +59,7 @@ This [project](https://github.com/anoushkadas/AnoushkaDas/tree/f312d9d45a6b165ce
 * Supported stakeholders via rapid problem resolution in high-pressure environments
 
 
-## Education / Certifications
-
-### Certifications
-* Microsoft Certified: [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaDas-6785/2F50E5B9CA2342E4?sharingId=EC48D38B8B0EC644)
-* Microsoft Certified: [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaDas-6785/A4E22979700AA26B?sharingId=EC48D38B8B0EC644)
-* [PCEP-30-02] PCEP™: [Certified Entry-Level Python Programmer](https://www.credly.com/badges/730c1bcc-1df0-4f3d-bdb1-7a6e6cf13c6e/public_url)
-* Tableau: [Desktop Specialist](https://www.credly.com/badges/c5f20dc2-bede-45f9-92ee-472ee94372cd/public_url)
+## Education
   
 ### Relavent Coursework
 * Intro to Data Science
