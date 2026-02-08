@@ -1,21 +1,21 @@
-# Hi, I'm Anoushka Das 👋
+# Hi, I'm Anoushka Das 
 
 I am a Data Science student who passionate about analytics, business intelligence, and building data‑driven solutions.
 
-## 🚀 What I Do
+## What I Do
 
 * Build data dashboards & automate reporting workflows
 * Analyze real-world datasets to enable business decisions
 * Blend data science with strategy & user-centric problem solving
 
-## 🔧 Tech Stack
+##  Tech Stack
 * **Programming Languages:** Python (PCEP certified), R, SQL, PySpark
 * **Data Visualization:** Tableau (Desktop Specialist), Power BI, dashboard development
 * **Data Processing:** Microsoft Excel, Google Sheets
 * **Databases:** MySQL Workbench
 * **Tools:** RStudio, basic market research & business intelligence workflows
 
-### Certifications
+## Certifications
 * Microsoft Certified: [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaDas-6785/2F50E5B9CA2342E4?sharingId=EC48D38B8B0EC644)
 * Microsoft Certified: [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/AnoushkaDas-6785/A4E22979700AA26B?sharingId=EC48D38B8B0EC644)
 * [PCEP-30-02] PCEP™: [Certified Entry-Level Python Programmer](https://www.credly.com/badges/730c1bcc-1df0-4f3d-bdb1-7a6e6cf13c6e/public_url)
