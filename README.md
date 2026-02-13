@@ -26,10 +26,9 @@ I am a Data Science student who passionate about analytics, business intelligenc
 ## Projects
 
 ### Bryant IDEA — Design Thinking (2023)
-
-Applied design thinking to reduce shelter dog return rates.
-
-* Focus: user research, prototyping, problem framing
+* Utilized design thinking to research methods to lower the return rate of shelter and homeless dogs. 
+* Collaborated with a team of 4 on market research, brainstorming, designing prototypes, and creating a viable and creative solution.
+* Presented the research findings and the innovative solution to a panel of judges.
 
 ### Introduction to Programming (2023)
 This [project](https://github.com/anoushkadas/AnoushkaDas/tree/c194902bca8c82a56be861162fbdc63daf3af22d/Intro%20to%20Programming) is a Python-based billing system that automates payroll by calculating regular and overtime pay based on a four-week work period. It features modular code with strict validation for employee names, minimum hourly rates, and weekly hour limits to ensure data accuracy. The system stores records in a flat-file database and generates ad-hoc reports summarizing total billable hours and average costs across all employees.
