@@ -44,22 +44,31 @@ This [project](https://github.com/anoushkadas/AnoushkaDas/tree/f312d9d45a6b165ce
 
 ## Experience
 
-### Dashboard Reporting Intern · Emplay · Jun 2021 – Aug 2021
+### Dashboard Reporting Intern - Emplay - Jun 2021 – Aug 2021
 
 * Built automated Tableau dashboards to translate raw sales data into executive-facing insights
 * Cleaned and structured large datasets to improve report accuracy and delivery speed
 * Supported business intelligence decision-making across sales ops
 
-### Market Research Intern · Emplay · Jun 2020 – Aug 2020
+### Market Research Intern - Emplay - Jun 2020 – Aug 2020
 
 * Built customer segmentation database for targeted outreach
 * Analyzed market trends to optimize product positioning using data-driven approach
 
-### Conferences Coordinator · Bryant University · May 2025 – Aug 2025
+### Conferences Coordinator - Bryant University - May 2025 – Aug 2025
 
 * Managed event logistics with operational systems and scheduling tools
 * Supported stakeholders via rapid problem resolution in high-pressure environments
 
+### Project Coordinator - Bryant University PWC Center – Sep. 2023 – Nov. 2024
+
+* Welcomed all guests into the center, answered all inquiries and provided information on upcoming events 
+* Oversaw a budget of $250, planned and created marketing materials on Canva to promote student engagement
+
+### Receptionist - Salon Tuan - Jan. 2022 – Jul. 2022
+
+* Oversaw scheduling for a team of six hairstylists, responded to phone inquiries, managed waitlists, and maintained accurate records of payments and administrative documentation.
+* Effectively resolved conflicts and addressed unethical behavior professionally, contributing to a respectful, positive, and efficient workplace environment.
 
 ## Education
   
