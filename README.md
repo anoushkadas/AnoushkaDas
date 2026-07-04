@@ -24,26 +24,36 @@ I am a Data Science student who passionate about analytics, business intelligenc
 
 
 ## Projects
-
 ### Bryant IDEA — Design Thinking (2023)
-* Utilized design thinking to research methods to lower the return rate of shelter and homeless dogs. 
+* Utilized design thinking to research methods to lower the return rate of shelter and homeless dogs.
 * Collaborated with a team of 4 on market research, brainstorming, designing prototypes, and creating a viable and creative solution.
 * Presented the research findings and the innovative solution to a panel of judges.
 
 ### Introduction to Programming (2023)
-This [project](https://github.com/anoushkadas/AnoushkaDas/tree/c194902bca8c82a56be861162fbdc63daf3af22d/Intro%20to%20Programming) is a Python-based billing system that automates payroll by calculating regular and overtime pay based on a four-week work period. It features modular code with strict validation for employee names, minimum hourly rates, and weekly hour limits to ensure data accuracy. The system stores records in a flat-file database and generates ad-hoc reports summarizing total billable hours and average costs across all employees.
+* Engineered a Python-based automated payroll billing system calculating regular and overtime pay over four-week work periods.
+* Implemented modular code structure with strict validation checks for employee names, minimum hourly rates, and weekly hour limits.
+* Managed historical records using a flat-file database system to generate ad-hoc reports summarizing total billable hours and average labor costs.
 
-### Software Applications for Mathamatics (2025)
-This [project](https://github.com/anoushkadas/AnoushkaDas/tree/d42f8a70d7bdce9faeee52e926839a2fae4cf4fa/math%20354) demonstrates skills across Excel, VBA, and R through user-interface design, looping logic, data transformation, and statistical modeling. The project is divided into four major components: Excel UI design, Excel VBA scripting, R looping, and a full 4-fold cross-validation modeling pipeline.
+### Software Applications for Mathematics (2025)
+* Developed a multi-stage technical data pipeline integrating Excel UI design, automated VBA scripting, and R-based data transformations.
+* Programmed robust looping logic and advanced data manipulation structures to clean and transform complex mathematical datasets.
+* Built and validated a statistical modeling pipeline utilizing a full 4-fold cross-validation framework.
 
 ### Introduction to Deep Learning (2025)
-This [project](https://github.com/anoushkadas/AnoushkaDas/tree/9d54cc46cb17ee9ad00137d089c42941b47f4ddf/Intro%20to%20Deep%20Learning) is a VGG16-based CNN reimplementation designed to classify five insect species using Kaggle stock imagery. By utilizing transfer learning, Adam optimization, and data cleaning, this project demonstrates high-accuracy identification despite varied real-world backgrounds and noisy data.
+* Reimplemented a VGG16 Convolutional Neural Network (CNN) architecture designed to classify five distinct insect species.
+* Utilized transfer learning methodologies and Adam optimization to achieve high-accuracy image identification.
+* Performed deep data cleaning and data augmentation to handle noisy Kaggle datasets and varied real-world image backgrounds.
 
-### Global AI Job Market Data Analysis and Visualization
-This [project](https://github.com/anoushkadas/AnoushkaDas/tree/f312d9d45a6b165ce3b06243ebd98d25a421ed9b/Global%20AI%20Job%20Market%20Data%20Analysis) demonstrates technical proficiency in the Python data science stack: Pandas, Matplotlib, and Seaborn, by transforming a large, complex dataset into clear, actionable business intelligence. It specifically showcases ability to conduct deep exploratory analysis and communicate high-level trends such as the correlation between professional seniority and global compensation through professional-grade visualizations.
+### Global AI Job Market Data Analysis and Visualization (2025)
+* Demonstrated technical proficiency in the Python data science stack—specifically Pandas, Matplotlib, and Seaborn—to transform massive datasets.
+* Conducted deep exploratory data analysis (EDA) to extract clear, actionable business intelligence from complex international market data.
+* Designed professional-grade visualizations communicating high-level industry trends, such as the direct correlation between professional seniority and global compensation.
 
 ### Sales Enablement AI Platform (2026)
-This [project](https://github.com/anoushkadas/Sales-Enablement-AI-Platform.git) is a full-stack, AI-powered B2B platform engineered with a Node.js/Express backend, vanilla JavaScript frontend, and a PostgreSQL database. It features 11 distinct AI workflows leveraging the Google Gemini API to automate sales enablement processes and deal tracking. Deployed across Google Cloud Run and Render, the system demonstrates advanced application architecture through the evaluation of ADK agent frameworks, custom tool wiring, and PostgreSQL-backed session state management.
+* Developed a full-stack B2B sales enablement web application utilizing a Node.js/Express backend, a vanilla JavaScript frontend, and a PostgreSQL database.
+* Integrated 11 distinct AI workflows leveraging the Google Gemini API (gemini-2.5-flash) to automate coaching, lesson generation, and deal tracking.
+* Containerized and deployed the application infrastructure across Google Cloud Run and Render.
+* Evaluated advanced agentic architecture patterns, including custom tool wiring, ADK agent frameworks, and PostgreSQL-backed session state management.
 
 ## Experience
 
