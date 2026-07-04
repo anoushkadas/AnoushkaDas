@@ -42,6 +42,9 @@ This [project](https://github.com/anoushkadas/AnoushkaDas/tree/9d54cc46cb17ee9ad
 ### Global AI Job Market Data Analysis and Visualization
 This [project](https://github.com/anoushkadas/AnoushkaDas/tree/f312d9d45a6b165ce3b06243ebd98d25a421ed9b/Global%20AI%20Job%20Market%20Data%20Analysis) demonstrates technical proficiency in the Python data science stack: Pandas, Matplotlib, and Seaborn, by transforming a large, complex dataset into clear, actionable business intelligence. It specifically showcases ability to conduct deep exploratory analysis and communicate high-level trends such as the correlation between professional seniority and global compensation through professional-grade visualizations.
 
+### Sales Enablement AI Platform (2026)
+This [project]() is a full-stack, AI-powered B2B platform engineered with a Node.js/Express backend, vanilla JavaScript frontend, and a PostgreSQL database. It features 11 distinct AI workflows leveraging the Google Gemini API to automate sales enablement processes and deal tracking. Deployed across Google Cloud Run and Render, the system demonstrates advanced application architecture through the evaluation of ADK agent frameworks, custom tool wiring, and PostgreSQL-backed session state management.
+
 ## Experience
 
 ### Dashboard Reporting Intern - Emplay - Jun 2021 – Aug 2021
