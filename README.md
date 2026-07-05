@@ -24,36 +24,36 @@ I am a Data Science student who passionate about analytics, business intelligenc
 
 
 ## Projects
-### Bryant IDEA — Design Thinking (2023)
-* Utilized design thinking to research methods to lower the return rate of shelter and homeless dogs.
-* Collaborated with a team of 4 on market research, brainstorming, designing prototypes, and creating a viable and creative solution.
-* Presented the research findings and the innovative solution to a panel of judges.
-
-### Introduction to Programming (2023)
-* Engineered a Python-based automated payroll billing system calculating regular and overtime pay over four-week work periods.
-* Implemented modular code structure with strict validation checks for employee names, minimum hourly rates, and weekly hour limits.
-* Managed historical records using a flat-file database system to generate ad-hoc reports summarizing total billable hours and average labor costs.
-
-### Software Applications for Mathematics (2025)
-* Developed a multi-stage technical data pipeline integrating Excel UI design, automated VBA scripting, and R-based data transformations.
-* Programmed robust looping logic and advanced data manipulation structures to clean and transform complex mathematical datasets.
-* Built and validated a statistical modeling pipeline utilizing a full 4-fold cross-validation framework.
-
-### Introduction to Deep Learning (2025)
-* Reimplemented a VGG16 Convolutional Neural Network (CNN) architecture designed to classify five distinct insect species.
-* Utilized transfer learning methodologies and Adam optimization to achieve high-accuracy image identification.
-* Performed deep data cleaning and data augmentation to handle noisy Kaggle datasets and varied real-world image backgrounds.
+### Sales Enablement AI Platform (2026)
+* Developed a full-stack B2B sales enablement web application utilizing a Node.js/Express backend, a vanilla JavaScript frontend, and a PostgreSQL database.
+* Integrated 11 distinct AI workflows leveraging the Google Gemini API (gemini-2.5-flash) to automate coaching, lesson generation, and deal tracking.
+* Containerized and deployed the application infrastructure across Google Cloud Run and Render.
+* Evaluated advanced agentic architecture patterns, including custom tool wiring, ADK agent frameworks, and PostgreSQL-backed session state management.
 
 ### Global AI Job Market Data Analysis and Visualization (2025)
 * Demonstrated technical proficiency in the Python data science stack—specifically Pandas, Matplotlib, and Seaborn—to transform massive datasets.
 * Conducted deep exploratory data analysis (EDA) to extract clear, actionable business intelligence from complex international market data.
 * Designed professional-grade visualizations communicating high-level industry trends, such as the direct correlation between professional seniority and global compensation.
 
-### Sales Enablement AI Platform (2026)
-* Developed a full-stack B2B sales enablement web application utilizing a Node.js/Express backend, a vanilla JavaScript frontend, and a PostgreSQL database.
-* Integrated 11 distinct AI workflows leveraging the Google Gemini API (gemini-2.5-flash) to automate coaching, lesson generation, and deal tracking.
-* Containerized and deployed the application infrastructure across Google Cloud Run and Render.
-* Evaluated advanced agentic architecture patterns, including custom tool wiring, ADK agent frameworks, and PostgreSQL-backed session state management.
+### Introduction to Deep Learning (2025)
+* Reimplemented a VGG16 Convolutional Neural Network (CNN) architecture designed to classify five distinct insect species.
+* Utilized transfer learning methodologies and Adam optimization to achieve high-accuracy image identification.
+* Performed deep data cleaning and data augmentation to handle noisy Kaggle datasets and varied real-world image backgrounds.
+
+### Software Applications for Mathematics (2025)
+* Developed a multi-stage technical data pipeline integrating Excel UI design, automated VBA scripting, and R-based data transformations.
+* Programmed robust looping logic and advanced data manipulation structures to clean and transform complex mathematical datasets.
+* Built and validated a statistical modeling pipeline utilizing a full 4-fold cross-validation framework.
+
+### Introduction to Programming (2023)
+* Engineered a Python-based automated payroll billing system calculating regular and overtime pay over four-week work periods.
+* Implemented modular code structure with strict validation checks for employee names, minimum hourly rates, and weekly hour limits.
+* Managed historical records using a flat-file database system to generate ad-hoc reports summarizing total billable hours and average labor costs.
+* 
+### Bryant IDEA — Design Thinking (2023)
+* Utilized design thinking to research methods to lower the return rate of shelter and homeless dogs.
+* Collaborated with a team of 4 on market research, brainstorming, designing prototypes, and creating a viable and creative solution.
+* Presented the research findings and the innovative solution to a panel of judges.
 
 ## Experience
 
