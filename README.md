@@ -1,4 +1,4 @@
-# Hi, I'm Anoushka Das hihi
+# Hi, I'm Anoushka Das 
 
 I am a Data Science student who passionate about analytics, business intelligence, and building data‑driven solutions.
 
